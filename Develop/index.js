@@ -59,16 +59,6 @@ inquirer
         },
         {
             type: "input",
-            name: "repoLink",
-            message: "What is the link to your GitHub repository?",
-        },
-        {
-            type: "input",
-            name: "deployedLink",
-            message: "What is the link to your deployed and active application?",
-        },
-        {
-            type: "input",
             name: "description",
             message: "What is a description of your application?",
         },
@@ -108,6 +98,16 @@ inquirer
             type: "input",
             name: "email",
             message: "Please provide your email so a user could reach out if they had any questions.",
+        },
+        {
+            type: "input",
+            name: "repoLink",
+            message: "What is the link to your GitHub repository?",
+        },
+        {
+            type: "input",
+            name: "deployedLink",
+            message: "What is the link to your deployed and active application?",
         },
 
     ])

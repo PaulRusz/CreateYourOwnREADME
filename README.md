@@ -32,9 +32,11 @@ The user will be prompted to complete multiple questions and choices that will b
 N/A
 
 ## Links
-
+Repo:
 https://github.com/PaulRusz/BuildYourOwnREADME
 
+Instructional Video:
+https://drive.google.com/file/d/1YVuho_r02CHBSaIsDQBWMpAcCcKIQiQO/view
 
 
 ## License

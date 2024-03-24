@@ -36,6 +36,8 @@ Repo:
 https://github.com/PaulRusz/BuildYourOwnREADME
 
 Instructional Video:  
+[Create Your Own README instructional video_.webm](https://github.com/PaulRusz/CreateYourOwnREADME/assets/155576797/7c283d07-bd4e-4561-9413-a1b75621a21d)
+
 https://drive.google.com/file/d/1YVuho_r02CHBSaIsDQBWMpAcCcKIQiQO/view
 
 
